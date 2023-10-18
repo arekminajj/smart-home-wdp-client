@@ -31,3 +31,4 @@ class HomeStatus:
         data = res.json()
 
         return data
+    
